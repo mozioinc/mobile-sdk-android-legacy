@@ -5,19 +5,8 @@
   <versioning>
     <release>1.0.100</release>
     <versions>
-      <version>1.0.2</version>
-      <version>1.0.54</version>
-      <version>1.0.22</version>
-      <version>1.0.23</version>
-      <version>1.0.0</version>
-      <version>1.0.34</version>
-      <version>1.0.90</version>
-      <version>1.0.91</version>
-      <version>1.0.92</version>
-      <version>1.0.93</version>
-      <version>1.0.55</version>
       <version>1.0.100</version>
     </versions>
-    <lastUpdated>20190422195027</lastUpdated>
+    <lastUpdated>20190423231837</lastUpdated>
   </versioning>
 </metadata>
